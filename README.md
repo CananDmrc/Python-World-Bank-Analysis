@@ -1,1 +1,2 @@
-# World-Bank-Analysis
+
+I conducted an analysis based on data sourced from the World Bank Report of 2019. This dataset encompasses financial metrics for 174 countries, encompassing indicators like inflation rate, unemployment rate, business freedom index, government spending, among others. To ensure accuracy and relevance in my analysis, I employed Python for data cleaning and manipulation tasks. Additionally, I utilized various data visualization techniques to generate meaningful graphical representations.
